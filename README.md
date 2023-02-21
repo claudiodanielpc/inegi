@@ -1,2 +1,2 @@
-# cuentas_nacionales
-Información y visualizaciones de datos de información de Cuentas Nacionales publicadas por el INEGI
+# INEGI
+Información y visualizaciones de datos de información de diferentes programas publicados por el INEGI
